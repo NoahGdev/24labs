@@ -17,7 +17,7 @@ export function Nav() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-0">
               <LogoSVG />
-              <span className="font-semibold text-xl">24 Labs</span>
+              <span className="font-semibold text-xl mb-1 tracking-tight">24 Labs</span>
             </Link>
           </div>
 
