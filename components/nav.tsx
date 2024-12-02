@@ -2,10 +2,9 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { Menu, X, Beaker } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import LogoSVG from '@/components/ui/logo';
-import { MdOutlineMarkEmailRead } from 'react-icons/md';
 import ContactButton from '@/components/ui/contactus';
 
 export function Nav() {
